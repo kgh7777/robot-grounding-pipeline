@@ -1,7 +1,7 @@
 # robot-grounding-pipeline
 This site is under the construction!! I am confusing the files!! Please use the docker Image first!!
 
-https://hub.docker.com/repository/docker/kgh07/sensor-grounding-pipeline/general
+kgh07/sensor-grounding-pipeline
 
 by the precious help of Google and Chatly!! Thanks!!
 
